@@ -56,7 +56,7 @@ ser incorrecto.](media/image7.png)
 Ya hemos comprobado que el entorno git funciona en mi PC; vamos a
 practicar el commit y el push en mi entorno de desarrollo; en IntelliJ.
 
-Ya en mi entorno de desarrollo, he creado un fichero de texto de prueba
+Ya en mi entorno de desarrollo, he creado un [fichero de texto de prueba](prueba.txt)
 para hacer mi primer **[git add, git commit y git push.]**
 
 ![Interfaz de usuario gráfica, Texto, Aplicación El contenido generado
