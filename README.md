@@ -98,3 +98,12 @@ rama de trabajo) sean revisados, discutidos y, eventualmente, fusionados
 con otra rama (por lo general, la rama principal como main o master).
 Que en este caso como no tengo permisos, no puedo aceptarlo y fusionar
 las ramas.
+
+
+
+Otra parte de la práctica es comprobar que tenga instalados tanto Maven como Java. Vemos que sí en las siguientes capturas. (Ya lo tenía de anteriores proyectos)
+![image](https://github.com/user-attachments/assets/6d487273-dc32-4521-aca5-13c62d9f7721)
+![image](https://github.com/user-attachments/assets/35405ef7-e0dd-4d68-9d8e-ca3db6445040)
+
+
+
