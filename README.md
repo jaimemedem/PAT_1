@@ -22,7 +22,7 @@ repositorio en mi carpeta de practica1
 ![Texto El contenido generado por IA puede ser
 incorrecto.](media/image4.png)
 
-[**git clone**:]{.underline} git clone crea en una copia local de un
+<u>[**git clone**:]</u> git clone crea en una copia local de un
 repositorio en remoto, en este caso del repositorio que he creado,
 llamado PAT_1, después de hacer un fork desde el repositorio del
 profesor.
