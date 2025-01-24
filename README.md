@@ -12,17 +12,15 @@ incorrecto.](media/image1.png)
 Esto ocurría porque tenía mi carpeta .git en una carpeta muy alta, como
 se puede ver en la siguiente imagen.
 
-![](media/image2.png){width="5.905555555555556in" height="0.3625in"}
+![](media/image2.png)
 
 Lo he solucionado eliminando esta carpeta .git y colando de nuevo el
 repositorio en mi carpeta de practica1
 
-![](media/image3.png){width="5.156969597550306in"
-height="0.29170713035870516in"}
+![](media/image3.png)
 
 ![Texto El contenido generado por IA puede ser
-incorrecto.](media/image4.png){width="5.905555555555556in"
-height="0.8333333333333334in"}
+incorrecto.](media/image4.png)
 
 [**git clone**:]{.underline} git clone crea en una copia local de un
 repositorio en remoto, en este caso del repositorio que he creado,
@@ -30,8 +28,7 @@ llamado PAT_1, después de hacer un fork desde el repositorio del
 profesor.
 
 ![Texto El contenido generado por IA puede ser
-incorrecto.](media/image5.png){width="5.905555555555556in"
-height="1.4013888888888888in"}
+incorrecto.](media/image5.png)
 
 **[git branch / git checkout :]{.underline}** Hago uso del comando git
 Branch para crear una nueva rama de desarrollo; esto servirá para poder
@@ -51,12 +48,10 @@ aparece un histórico de commits muy distinto al de la captura siguiente,
 justo después de hacer un fetch.
 
 ![Captura de pantalla de computadora El contenido generado por IA puede
-ser incorrecto.](media/image6.png){width="5.905555555555556in"
-height="2.332638888888889in"}
+ser incorrecto.](media/image6.png)
 
 ![Interfaz de usuario gráfica, Texto El contenido generado por IA puede
-ser incorrecto.](media/image7.png){width="5.905555555555556in"
-height="2.35in"}
+ser incorrecto.](media/image7.png)
 
 Ya hemos comprobado que el entorno git funciona en mi PC; vamos a
 practicar el commit y el push en mi entorno de desarrollo; en IntelliJ.
@@ -66,8 +61,7 @@ para hacer mi primer **[git add, git commit y git push.]{.underline}**
 
 ![Interfaz de usuario gráfica, Texto, Aplicación El contenido generado
 por IA puede ser
-incorrecto.](media/image8.png){width="5.905555555555556in"
-height="2.078472222222222in"}
+incorrecto.](media/image8.png)
 
 **[git add, git commit y git push:]{.underline}** Como podemos ver en
 las siguientes capturas, he subido a mi rama prueba (esto para
@@ -86,19 +80,16 @@ del repositorio local al repositorio remoto, sincronizando los cambios
 realizados en tu máquina con el servidor remoto.
 
 ![Texto El contenido generado por IA puede ser
-incorrecto.](media/image9.png){width="5.905555555555556in"
-height="1.6340277777777779in"}
+incorrecto.](media/image9.png)
 
 ![Texto El contenido generado por IA puede ser
-incorrecto.](media/image10.png){width="5.905555555555556in"
-height="2.3430555555555554in"}
+incorrecto.](media/image10.png)
 
 Si accedemos a el repositorio desde el navegador comprobamos que
 efectivamente, se ha subido el contenido.
 
 ![Captura de pantalla de un celular El contenido generado por IA puede
-ser incorrecto.](media/image11.png){width="5.905555555555556in"
-height="1.75625in"}
+ser incorrecto.](media/image11.png)
 
 Si concluimos que ya hemos acabado con el desarrollo en paralelo en
 nuestra rama, podemos hacer un **[pull request]{.underline}**. Es una
