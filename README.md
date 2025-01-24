@@ -7,8 +7,7 @@ Al clonar mi repositorio encontraba que al hacer un add o un commit
 quería añadir todos los archivos de mi ordenador.
 
 ![Texto El contenido generado por IA puede ser
-incorrecto.](media/image1.png){width="5.905555555555556in"
-height="3.1006944444444446in"}
+incorrecto.](media/image1.png)
 
 Esto ocurría porque tenía mi carpeta .git en una carpeta muy alta, como
 se puede ver en la siguiente imagen.
